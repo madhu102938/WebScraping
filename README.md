@@ -3,6 +3,8 @@
 ## Project Overview:
 The Anime Ranking Python script is designed to fetch and display anime rankings based on user-specified criteria from the popular MyAnimeList website. It serves as a valuable tool for anime enthusiasts to discover highly-ranked anime that align with their preferences for popularity and score.
 
+To download, go the link google drive
+
 ## Functionality:
 The script utilizes the BeautifulSoup and requests libraries to enable web scraping and HTML parsing. It fetches anime data from the MyAnimeList website, extracting essential details such as anime name, rank, score, number of episodes, airing status, and popularity.
 
