@@ -30,7 +30,7 @@ def anime_ranking(i, start_rank, user_anime_name, end_rank, l_pop, h_pop):
         # Loop through each anime entry
         for anime in all_anime:
             # Extract relevant information from the entry
-            anime_name = anime.find('h3', class_='hoverinfo_trigger fl-l fs14 fw-b anime_ranking_h3').text
+            anime_name = anime.find('h3', class_='fl-l fs14 fw-b anime_ranking_h3').text
             anime_rank = anime.find('td', class_='rank ac').text
             anime_score = anime.find('span', class_=f'text on score-label score-{i}')
             anime_info = anime.find('div', class_="information di-ib mt4").text
