@@ -6,7 +6,7 @@ The Anime Ranking Python script is designed to fetch and display anime rankings 
 ## Running the code
 - Go to this [link](https://colab.research.google.com/drive/1T3YK5omO8HxAXcQJfsdc10tjijF7Pa88?usp=sharing)
 - This takes you to Google Colab notebook
-- Click run on top left to execute the code
+- Click run on top left to execute the code (**Need to log-in to run the code**)
 
 
 ## Functionality:
